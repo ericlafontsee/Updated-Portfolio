@@ -14,7 +14,7 @@ body {
 }
 
 .cardimg {
-    border-color: #556270;
+    border: 1px solid #556270;
 }
 
 h3 {

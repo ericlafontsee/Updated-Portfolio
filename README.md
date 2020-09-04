@@ -8,7 +8,7 @@ Finally, I updated the styling of the portfolio with my own color scheme and bac
 This project is mobile responsive.
 
 
-This Work Day Scheduler is deployed to GitHub Pages:  
+My portfolio is deployed to GitHub Pages:  
 https://ericlafontsee.github.io/Updated-Portfolio/
 
 ## Usage
@@ -63,5 +63,5 @@ Finally, to utilize the Bootstrap grid in your webpage you must use the followin
  ## Author
  Eric LaFontsee  
   
-  ## License
+## License
   MIT
