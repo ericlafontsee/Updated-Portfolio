@@ -61,7 +61,8 @@ Finally, to utilize the Bootstrap grid in your webpage you must use the followin
   ```
 
  ## Author
- Eric LaFontsee  
+ Eric LaFontsee   
+ Email: elafontsee@gmail.com
   
 ## License
   MIT
