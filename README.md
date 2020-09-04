@@ -3,9 +3,10 @@
 ## Description
 For this project, I created an updated version of my existing portfolio.
 The portfolio content now includes 4 of my best projects with screenshots and links to each respective GitHub repo and the deployed version.
-My portfolio also includes a resume page with a downloadable version.
-Finally, I updated the styling of the portfolio with my own color scheme and background. 
-This project is mobile responsive.
+My portfolio also includes a resume page with a downloadable version and links to GitHub and  LinkedIn.
+Finally, I updated the styling of the portfolio with my own color scheme and background and made sure 
+this project was mobile responsive.  
+The rest of the assignment was updating and improving our Github, LinkedIn, and Resumes.
 
 
 My portfolio is deployed to GitHub Pages:  
