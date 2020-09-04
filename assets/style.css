@@ -1,0 +1,104 @@
+@font-face {
+    font-family: Architects_Daughter;
+    src: url("Architects_Daughter/ArchitectsDaughter-Regular.ttf");
+}
+
+body {
+    background-image: url("images/brickwall_@2X.png");
+}
+
+.name {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    -webkit-text-stroke: 0px #556270;
+}
+
+.cardimg {
+    border-color: #556270;
+}
+
+h3 {
+    background: #556270;
+}
+
+.propic {
+    border: 2px solid #556270;
+    border-radius: 50%;
+}
+
+.about-me,
+.contact,
+.portfolio {
+    background: #DCE8EB;
+    color: black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 #556270;
+}
+
+.btn {
+    background: #556270;
+    color: white;
+    width: 150px;
+    border: 2px outset white;
+}
+
+header {
+    background: #556270;
+    color: white;
+    opacity: 100%;
+}
+
+.card {
+    width: 100%;
+    padding: 0;
+    border-color: #556270;
+}
+
+.margin-top {
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.icon {
+    font-size: 60px;
+    font-weight: bold;
+    padding: 50px;
+    color: #F7F9FE;
+    -webkit-text-stroke: 2px #556270;
+}
+
+.ficon {
+    color: #556270;
+}
+
+.contactLinks {
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+}
+
+.resume {
+    width: 100%;
+    margin: 0 auto;
+}
+
+@media (max-width: 600px) {
+    header.navbar {
+        margin-left: 0;
+        margin-right: 0;
+        margin-bottom: 0;
+    }
+    .fixed-bottom {
+        position: relative;
+        padding-bottom: 20px;
+        padding-top: 20px;
+        margin-top: 20px;
+    }
+    #contact-footer {
+        position: fixed;
+        padding-top: 20px;
+        margin-top: 20px;
+        bottom: 0;
+        left: 0;
+        right: 0;
+    }
+}
