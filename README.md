@@ -12,7 +12,7 @@ My portfolio is deployed to GitHub Pages:
 https://ericlafontsee.github.io/Updated-Portfolio/
 
 ## Usage
-<!-- ![image](assets/Images/homePage.png) -->
+![image](assets/images/Updated_Portfolio.gif)
 
 ## Built With
 Bootstrap  
